@@ -11,4 +11,4 @@ hist(data1$Global_active_power, main="Global Active Power",
 png("plot1.png", width=480, height=480)
 dev.off()
 ## png 
-##   2
+##   2
